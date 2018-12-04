@@ -1,0 +1,21 @@
+header {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#about {
+    background-color: #e5efff;
+}
+
+#projects {
+    background-color: #c9deff;
+}
+
+#contact {
+    background-color: #adcdff;
+}
